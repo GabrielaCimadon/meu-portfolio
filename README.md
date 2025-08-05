@@ -18,10 +18,7 @@ Este portfólio foi construído utilizando as seguintes tecnologias:
 - Menu de navegação fixo
 - Separação entre conteúdo e estilo via pasta `css/style.css`
 
-### 🧠 JavaScript
-- Scroll suave entre seções
-- Arquivo separado para scripts em `js/script.js`
-- Manipulação de eventos com `addEventListener` para melhor experiência do usuário
+
 
 ### 💻 Git & GitHub Pages
 - Projeto versionado com Git
