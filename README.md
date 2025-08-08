@@ -11,9 +11,8 @@ Este portfólio foi construído utilizando as seguintes tecnologias:
 - Uso de IDs para navegação entre seções
 
 ### 🎨 CSS3
-- Estilização moderna com paleta personalizada:
-  - Roxo: `#b616b6`
-  - Cinza claro: `#eaeaea`
+- Estilização moderna com paleta personalizada.
+  
 - Layout responsivo com CSS puro (sem frameworks externos)
 - Menu de navegação fixo
 - Separação entre conteúdo e estilo via pasta `css/style.css`
@@ -25,7 +24,6 @@ Este portfólio foi construído utilizando as seguintes tecnologias:
 - Publicação online utilizando [GitHub Pages](https://pages.github.com/)
 - Organização em estrutura de pastas:
 /css/style.css
-/js/script.js
 index.html
 
 ## ✨ Funcionalidades
@@ -35,13 +33,14 @@ index.html
 
 ## 🚀 Acesso ao Site
 Acesse o portfólio em:  
+https://gabrielacimadon.github.io/meu-portfolio/
 
 ---
 
 ### 📬 Contato
 
 - **Email:** gabrielacimadon08@gmail.com  
-- **LinkedIn:** [Gabriela Cimadon](https://www.linkedin.com/in/gabrielacimadon/)
+- **LinkedIn:** [Gabriela Cimadon](https://www.linkedin.com/in/gabriela-cimadon-0920381a4/)
 
 ---
 
